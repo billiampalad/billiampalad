@@ -40,14 +40,8 @@ I am **Clynten Billiam Palad**, a Computer Science student at **Manado State Pol
 ### 📊 My Github Stats
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=billiampalad&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" 
-        alt="Clynten's Stats" 
-        height="170" />
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=billiampalad&layout=compact&theme=dracula&hide_border=true" 
-        alt="Top Languages" 
-        height="170" />
-  </p>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=billiampalad&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Clynten's Stats" height="170" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=billiampalad&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide_forks=false" alt="Top Languages" height="170" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=billiampalad&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
