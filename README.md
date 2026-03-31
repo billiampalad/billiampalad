@@ -1,113 +1,86 @@
-<h1 align="center">Hey 👋 I'm Bil Clynten</h1>
+<h1 align="center">Hi 👋, I'm Bil Clynten</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;ML+surveillance+Builder;Tech+Explorer" alt="Typing SVG" />
+</p>
 
-###
+---
 
-<p align="left">My name is Clynten Billiam Palad, and I am a student at the Manado State Polytechnic. I am from North Sulawesi Province in Indonesia. I enjoy learning full-stack programming languages and am a fan of artificial intelligence, with a strong interest in building scalable web applications and intelligent monitoring systems. I bridge the gap between complex data and user-friendly interfaces.</p>
+### 🚀 About Me
 
-###
+<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA2MmF3czdyOXRuYmxxemo2ZHhlcHN1anhmYXVmaHE3czYzb24wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
-<h2 align="left">About me</h2>
+I am **Clynten Billiam Palad**, a Computer Science student at **Manado State Polytechnic**, Indonesia. I bridge the gap between complex data and user-friendly interfaces, focusing on building scalable web applications and intelligent monitoring systems.
 
-###
+- 👁️ **Smart Surveillance** – Real-time ML-integrated CCTV analysis.
+- 🤝 **Campus Hub** – Digital bridge for University & Industry partnerships.
+- 🛒 **Scalable Web** – E-commerce & Academic management systems.
+- 📡 **Infra-Monitor** – Dedicated dashboard for Datin & WiFi service orders.
+- ⚡ **Current Focus** – Exploring the intersection of Machine Learning & Web Technologies.
 
-<p align="left">What I’ve been building:<br>👁️ Real-time ML-integrated CCTV analysis.<br>🤝 Digital bridge for University & Industry partnerships.<br>🛒 Scalable E-commerce & Academic management systems.<br>📡 Dedicated dashboard for Datin & WiFi service orders.<br>🚀 Exploring the intersection of ML & Web Tech.</p>
+---
 
-###
+### 🛠️ Tech Stack
 
-<div align="center">
-  <a href="https://discordapp.com/users/1449719212837965894" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@ClyntenBilliamPalad" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://wa.me/62895410703377" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/clynten.palad" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/clyntenbilliam?igsh=MWJqdjI5NGZta3E5Zw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-###
+---
 
-<h2 align="left">Skils</h2>
-
-###
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA2MmF3czdyOXRuYmxxemo2ZHhlcHN1anhmYXVmaHE3czYzb24wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-###
+### 📊 My Github Stats
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31sftlmx4zmhqtlcluzhwazjj44m?si=4edfdf5061784cc0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31sftlmx4zmhqtlcluzhwazjj44m?si=4edfdf5061784cc0&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=clyntenpalad&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Clynten's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clyntenpalad&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=clyntenpalad&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clyntenpalad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clyntenpalad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=clyntenpalad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=clyntenpalad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clyntenpalad&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clyntenpalad&theme=react&hide_border=true&area=true" width="100%" />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/snake.svg" alt="Snake animation" />
+### 🎮 Contribution Art
 
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/snake.svg" width="100%">
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=clyntenpalad.clyntenpalad&"  />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/clyntenpalad/clyntenpalad/output/pacman-contribution-graph.svg">
-</picture>
+### 📫 Let's Connect!
 
-###
+<p align="center">
+  <a href="https://discordapp.com/users/1449719212837965894"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://wa.me/62895410703377"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/clyntenbilliam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@ClyntenBilliamPalad"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=clyntenpalad.clyntenpalad&left_color=gray&right_color=blue" />
+</p>
