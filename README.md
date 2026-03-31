@@ -1,4 +1,4 @@
-<img src="./img/icon1.png" alt="Bil Clynten" style="margin-bottom: 30px;">
+<img src="./img/icon1.png" alt="Bil Clynten" style="margin-bottom: 20px;">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;ML+surveillance+Builder;Tech+Explorer" alt="Typing SVG" />
@@ -37,7 +37,41 @@ I am **Clynten Billiam Palad**, a Computer Science student at **Manado State Pol
 
 ---
 
+### 📊 My Github Statt
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=billiampalad&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Clynten's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billiampalad&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=billiampalad&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=billiampalad&theme=react&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+### 🎮 Contribution Art
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billiampalad/billiampalad/output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/billiampalad/billiampalad/output/snake.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billiampalad/billiampalad/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/billiampalad/billiampalad/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/billiampalad/billiampalad/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+---
 
 ### 📫 Let's Connect!
 
@@ -49,5 +83,5 @@ I am **Clynten Billiam Palad**, a Computer Science student at **Manado State Pol
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=clyntenpalad.clyntenpalad&left_color=gray&right_color=blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=billiampalad.billiampalad&left_color=gray&right_color=blue" />
 </p>
