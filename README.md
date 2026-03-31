@@ -37,11 +37,11 @@ I am **Clynten Billiam Palad**, a Computer Science student at **Manado State Pol
 
 ---
 
-### 📊 My Github Statt
+### 📊 My Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billiampalad&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Clynten's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billiampalad&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=billiampalad&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Clynten's Stats" height="170" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=billiampalad&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=billiampalad&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -52,7 +52,6 @@ I am **Clynten Billiam Palad**, a Computer Science student at **Manado State Pol
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=billiampalad&theme=react&hide_border=true&area=true" width="100%" />
 </div>
 
----
 
 ### 🎮 Contribution Art
 
