@@ -1,4 +1,4 @@
-<img src="./img/icon.png" alt="Bil Clynten" style="margin-bottom: 20px;">
+<img src="./img/icon1.png" alt="Bil Clynten" style="margin-bottom: 20px;">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;ML+surveillance+Builder;Tech+Explorer" alt="Typing SVG" />
