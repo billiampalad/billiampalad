@@ -39,12 +39,7 @@ I am **Clynten Billiam Palad**, a Computer Science student at **Manado State Pol
 
 ### 📊 My Github Statt
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billiampalad&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Clynten's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billiampalad&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=billiampalad&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
+[![Clynten's GitHub stats](https://github-readme-stats.vercel.app/api?username=billiampalad)](https://github.com/billiampalad/github-readme-stats)
 
 <br/>
 
