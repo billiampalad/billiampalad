@@ -24,6 +24,14 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
 
+      - name: generate pacman-contribution-graph-dark.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          theme: github-dark
+          output_name: pacman-contribution-graph-dark.svg
+
+
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
